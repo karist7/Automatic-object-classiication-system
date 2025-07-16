@@ -1,13 +1,13 @@
 # Automatic-object-classiication-system
 AI를 활용한 사물인터넷 개발자 양성 과정 미니 프로젝트
 <img width="991" height="556" alt="image" src="https://github.com/user-attachments/assets/7b4728f8-f57c-4e47-9e0e-42db457f7a08" />
-<img width="979" height="551" alt="image" src="https://github.com/user-attachments/assets/b4504564-d404-4e38-89fa-a59db4decde9" />
-<img width="993" height="556" alt="image" src="https://github.com/user-attachments/assets/5ef1931e-c6e0-46c7-9c83-7544ec6afc67" />
-<img width="972" height="545" alt="image" src="https://github.com/user-attachments/assets/591c375e-2d9c-4e11-b630-fa5472730b47" />
-<img width="986" height="556" alt="image" src="https://github.com/user-attachments/assets/84b6b836-d747-4c33-b4fd-06d01b822631" />
-<img width="989" height="554" alt="image" src="https://github.com/user-attachments/assets/8299f733-c3a8-4139-a626-d4342ecf06e1" />
-<img width="986" height="547" alt="image" src="https://github.com/user-attachments/assets/2801cb15-4478-44fb-8c8c-b6d430a5192f" />
-<img width="989" height="550" alt="image" src="https://github.com/user-attachments/assets/2a1b8e3e-a2a2-4d1c-8935-8202473f5a51" />
-<img width="984" height="553" alt="image" src="https://github.com/user-attachments/assets/3714c40f-135c-4e8b-bf05-6c870e3d7f47" />
-<img width="986" height="520" alt="image" src="https://github.com/user-attachments/assets/b9b154c3-6e76-443c-8038-c42a7498b582" />
-<img width="995" height="548" alt="image" src="https://github.com/user-attachments/assets/50e08306-0fa4-4185-acd8-a89c0c19bc84" />
+<img width="974" height="545" alt="image" src="https://github.com/user-attachments/assets/c319e5ac-3e39-4c78-9473-db9d90129b67" />
+<img width="992" height="537" alt="image" src="https://github.com/user-attachments/assets/d5cdb0d9-a4e2-4ba2-8aef-346b2f6436f5" />
+<img width="980" height="548" alt="image" src="https://github.com/user-attachments/assets/b6198627-2633-4e96-8d8d-df7f94b70cf5" />
+<img width="984" height="545" alt="image" src="https://github.com/user-attachments/assets/b2b4ec59-a4b7-46a0-8aba-5e0a527e0cf9" />
+<img width="989" height="558" alt="image" src="https://github.com/user-attachments/assets/06ab4cd5-52f7-4660-8290-2ad22f5d8537" />
+<img width="981" height="543" alt="image" src="https://github.com/user-attachments/assets/dd4be7ce-bed6-4ade-9b05-6e010e359c33" />
+<img width="985" height="552" alt="image" src="https://github.com/user-attachments/assets/3fa63f40-61dc-4dc5-acf0-146fdbad4db1" />
+<img width="990" height="554" alt="image" src="https://github.com/user-attachments/assets/d104ae41-baf1-4db4-b31b-b1ab8432fe4f" />
+<img width="989" height="537" alt="image" src="https://github.com/user-attachments/assets/3f0e69ba-357e-4b60-906c-796dc16386f5" />
+<img width="985" height="546" alt="image" src="https://github.com/user-attachments/assets/a64492ec-1188-4669-b0c7-0f05242a7e7e" />
